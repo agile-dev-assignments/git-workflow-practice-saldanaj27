@@ -6,4 +6,4 @@ This article is interesting because it shows a clear need for software engineers
 
 # Comment by Alex Hu
 
-Totally agree! There definitely needs to be changes made to computer science education to accomodate the increasing need for software engineers. Hope to see some changes to NYU's computer science education soon!
+Totally agree! There definitely needs to be changes made to computer science education to accomodate the increasing need for software engineers. Hope to see some changes to NYU's computer science education soon! Cool!!
